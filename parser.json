@@ -1,7 +1,7 @@
 {
-  "generate": true,
   "lang": "mlir",
+  "generate": true,
+  "url": "https://github.com/artagnon/tree-sitter-mlir",
   "semver": false,
-  "parser_version": "96fa0adc3028cc6a9d281370c9f213a457c4a2d0",
-  "url": "https://github.com/artagnon/tree-sitter-mlir"
+  "parser_version": "96fa0adc3028cc6a9d281370c9f213a457c4a2d0"
 }
